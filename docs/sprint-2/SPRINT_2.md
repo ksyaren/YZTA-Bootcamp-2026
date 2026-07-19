@@ -139,7 +139,12 @@ değerlendirmesi yapılmıştır.
   beklenenden daha karmaşık olması
 
 ## Sprint Board Durumu
+### Sprint Board Ekran Görüntüsü
 
+![PriceLens Sprint 2 Board](./sprint-board.png)
+### GitHub Projects Board
+
+[PriceLens Sprint Board]((https://github.com/users/ksyaren/projects/1))
 Sprint görevlerinin takibi için GitHub üzerindeki Product Backlog belgesi
 kullanılmıştır.
 
