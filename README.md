@@ -33,5 +33,6 @@ Uzun vadede PriceLens'in amacı, e-ticaret ekosisteminde fiyatlandırma şeffafl
 * Bütçesini optimize etmek, gereksiz harcamalardan kaçınmak isteyen ve alışveriş kararlarını duygusal değil, verilere dayalı şekilde vermek isteyen kullanıcılar
 * Tüketici hakları ve pazarlama şeffaflığı konularına duyarlı, sahte indirim uygulamalarına karşı farkındalığı yüksek dijital okuryazarlığa sahip kullanıcılar
 
-### Product Backlog URL:
-. . . . . . . . . . . . . 
+## Product Backlog URL
+
+[PriceLens Product Backlog](https://github.com/ksyaren/YZTA-Bootcamp-2026/blob/main/docs/PRODUCT_BACKLOG.md)
