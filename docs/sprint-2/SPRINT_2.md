@@ -144,7 +144,7 @@ değerlendirmesi yapılmıştır.
 ![PriceLens Sprint 2 Board](./sprint-board.png)
 ### GitHub Projects Board
 
-[PriceLens Sprint Board]((https://github.com/users/ksyaren/projects/1))
+[PriceLens Sprint Board](https://github.com/users/ksyaren/projects/1/views/1)
 Sprint görevlerinin takibi için GitHub üzerindeki Product Backlog belgesi
 kullanılmıştır.
 
