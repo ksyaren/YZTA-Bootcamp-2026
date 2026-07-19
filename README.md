@@ -36,3 +36,9 @@ Uzun vadede PriceLens'in amacı, e-ticaret ekosisteminde fiyatlandırma şeffafl
 ## Product Backlog URL
 
 [PriceLens Product Backlog](https://github.com/ksyaren/YZTA-Bootcamp-2026/blob/main/docs/PRODUCT_BACKLOG.md)
+
+## Sprint Dokümantasyonu
+
+- [Sprint 2 Dokümantasyonu](./docs/sprint-2/SPRINT_2.md)
+- [PriceLens Product Backlog](./docs/PRODUCT_BACKLOG.md)
+- [PriceLens Sprint Board](https://github.com/users/ksyaren/projects/1/views/1)
